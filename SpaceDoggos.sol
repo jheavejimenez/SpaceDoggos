@@ -1,4 +1,4 @@
-pragma solidity ^0.4.20;
+pragma solidity >=0.4.20;
 
 contract SpaceDoggos {
 
@@ -24,7 +24,6 @@ contract SpaceDoggos {
     mapping(address => Doggo) doggos;
 
     // Write your function below
-
 
 
 }
